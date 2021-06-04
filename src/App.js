@@ -19,11 +19,11 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <>Tháiml1
-    <div>thai an loz 123456</div>
+    <>
+      Tháiml1
+      <div>thai an loz 123456</div>
+      <h2>Giang ăn cứt</h2>
     </>
-
-    
   );
 }
 
